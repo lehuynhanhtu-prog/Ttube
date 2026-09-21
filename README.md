@@ -3,7 +3,7 @@
 Ứng dụng nghe audio hợp lệ trên Android Auto.
 
 ## Chức năng
-- Phát radio, podcast RSS hoặc URL audio (MP3/AAC/HLS) do người dùng có quyền sử dụng.
+- Phát URL audio trực tiếp (MP3/AAC/HLS) do người dùng có quyền sử dụng.
 - Duyệt danh sách và điều khiển phát/tạm dừng/chuyển bài trên Android Auto.
 - Thêm một nguồn audio từ điện thoại.
 - Mở YouTube Music chính chủ để nghe nội dung YouTube theo cách được hỗ trợ.
