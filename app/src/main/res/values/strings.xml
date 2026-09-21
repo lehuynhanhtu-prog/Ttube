@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TTube Audio</string>
+    <string name="source_title">Nguồn audio của tôi</string>
+    <string name="source_url">URL MP3, AAC hoặc HLS hợp lệ</string>
+    <string name="save_source">Lưu nguồn audio</string>
+    <string name="open_youtube_music">Mở YouTube Music</string>
+    <string name="saved">Đã lưu. Mở lại TTube Audio trên Android Auto để cập nhật.</string>
+</resources>
